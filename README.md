@@ -17,7 +17,7 @@
 <p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>TEAM_REALITY_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb</b> - Includes all functions required for classification operations.</li>
+  <li><b>NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb</b> - Includes all functions required for classification operations.</li>
 </ul>
 
 <h4>Output:</h4>
