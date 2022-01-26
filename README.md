@@ -4,7 +4,7 @@
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center"> Netflix Movies And TV Shows Clustering </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
 
 <p align="center"> 
 <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="05cItXL96l4LE9n02WfDR0h-6.png" height="382px">
@@ -65,18 +65,7 @@ A simple recommendation system was also made as an additional project on cosine 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
 
-Yash Patil | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
-
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-patil-099)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash-datascience)
-[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yashpatil1208)
-[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1CI538uBeELAuvdA78x7RZ481Lqg8O_Xl/view?usp=sharing)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
